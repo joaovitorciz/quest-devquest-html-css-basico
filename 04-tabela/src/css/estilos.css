@@ -22,3 +22,9 @@
     background-color: #424250;
     color: white;
 }
+
+a {
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+}
